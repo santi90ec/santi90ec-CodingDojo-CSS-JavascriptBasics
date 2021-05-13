@@ -1,0 +1,83 @@
+
+#main{
+    background-color: rgb(14, 14, 77);
+    width: 970px;
+    overflow: hidden;
+    height: auto;
+    border: 1px black;
+    display: inline-block;
+
+}
+
+
+#top-bar{
+    background-color: red;
+    
+   
+    background-color: red;
+    display: block;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}   
+
+#side-bar{
+    background-color: rgb(16, 143, 122);
+    margin: 1px 0px 0px 9px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 0px 15px 10px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(104, 196, 160);
+   
+    
+}
+#lista{
+    padding: 0px 5px 0px 10px;
+    margin: 0px;
+    font-size: 10px;
+    
+}
+#lista > li{
+    left: -10px;
+}
+#main-content{
+    display: inline-block;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin: 0px 0px 0px 12px;
+    vertical-align: top;
+    width: 747px;
+    padding: 0px 19px 12px 17px;
+    font-size: 10px;
+}
+
+#main-content > ul{
+    padding: 0px 5px 0px 10px;
+    
+}
+#main-content > ul > li {
+    padding: 0px 0px 7px 0px
+    
+}
+.lin{
+    color: rgb(47, 194, 145);
+}
+#footer{
+    display: block;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(104, 104, 104);
+    margin: 9px 10px 19px 7px;
+    padding: 1px 1px 1px 16px;
+    height: 44px;
+    font-size: 15px;
+}
+#txt{
+    color: rgb(41, 128, 241);
+}
